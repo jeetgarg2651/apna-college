@@ -1,2 +1,2 @@
-# apna-college
+# poornima college
 this is my first  get repostry
